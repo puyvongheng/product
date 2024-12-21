@@ -1,0 +1,133 @@
+[
+    {
+        "id": "101",
+        "name": "T-Shirt",
+        "description": "High-quality cotton T-shirt with multiple sizes and colors available.",
+        "category": "Clothing",
+        "brand": "FashionBrand",
+        "price": 14.99,
+        "thumbnail": [
+            "https://img.sonofatailor.com/images/customizer/product/highneck/DeepBlue_Regular.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
+        ],
+        "variants": [
+            {
+                "variant_id": "101A",
+                "color": "Red",
+                "size": "S",
+                "price": 14.99,
+                "stock": 30,
+                "images": [
+                    "https://img.sonofatailor.com/images/customizer/product/highneck/DeepBlue_Regular.jpg"
+                ]
+            },
+            {
+                "variant_id": "101B",
+                "color": "Red",
+                "size": "M",
+                "price": 15.99,
+                "stock": 50,
+                "images": [
+                    "https://cdn.prod.website-files.com/6256995755a7ea0a3d8fbd11/6257ec4fcb33ee42cdba135e_61b9b7e9effa0fc28ea1bf51_Frame%25207.jpeg"
+                ]
+            },
+            {
+                "variant_id": "101C",
+                "color": "Blue",
+                "size": "L",
+                "price": 16.99,
+                "stock": 40,
+                "images": [
+                    "https://welcomeleeds.com/cdn/shop/files/TopHeavyCorpoTee_600x600_crop_center.jpg"
+                ]
+            },
+            {
+                "variant_id": "101D",
+                "color": "Blue",
+                "size": "XL",
+                "price": 17.99,
+                "stock": 20,
+                "images": [
+                    "https://img01.ztat.net/article/spp-media-p1/5589c986aa8b4c4f96be3bcbdd2c3d70/7c04b4e9ac6149ae87a5cea02871eef3.jpg"
+                ]
+            }
+        ],
+        "seller": {
+            "id": "5003",
+            "name": "FashionHub",
+            "rating": 4.7,
+            "location": "Bangkok, Thailand"
+        },
+        "shipping": {
+            "cost": 4.99,
+            "duration": "5-10 days",
+            "locations": ["Asia", "Europe", "USA"]
+        }
+    }
+    ,
+     {
+        "id": "102",
+        "name": "T-122",
+        "description": "High-quality cotton T-shirt with multiple sizes and colors available.",
+        "category": "Clothing",
+        "brand": "FashionBrand",
+        "price": 14.99,
+        "thumbnail": [
+            "https://img.sonofatailor.com/images/customizer/product/highneck/DeepBlue_Regular.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png"
+        ],
+        "variants": [
+            {
+                "variant_id": "101A",
+                "color": "Red",
+                "size": "S",
+                "price": 14.99,
+                "stock": 30,
+                "images": [
+                    "https://img.sonofatailor.com/images/customizer/product/highneck/DeepBlue_Regular.jpg"
+                ]
+            },
+            {
+                "variant_id": "101B",
+                "color": "Red",
+                "size": "M",
+                "price": 15.99,
+                "stock": 50,
+                "images": [
+                    "https://cdn.prod.website-files.com/6256995755a7ea0a3d8fbd11/6257ec4fcb33ee42cdba135e_61b9b7e9effa0fc28ea1bf51_Frame%25207.jpeg"
+                ]
+            },
+            {
+                "variant_id": "101C",
+                "color": "Blue",
+                "size": "L",
+                "price": 16.99,
+                "stock": 40,
+                "images": [
+                    "https://welcomeleeds.com/cdn/shop/files/TopHeavyCorpoTee_600x600_crop_center.jpg"
+                ]
+            },
+            {
+                "variant_id": "101D",
+                "color": "Blue",
+                "size": "XL",
+                "price": 17.99,
+                "stock": 20,
+                "images": [
+                    "https://img01.ztat.net/article/spp-media-p1/5589c986aa8b4c4f96be3bcbdd2c3d70/7c04b4e9ac6149ae87a5cea02871eef3.jpg"
+                ]
+            }
+        ],
+        "seller": {
+            "id": "5003",
+            "name": "FashionHub",
+            "rating": 4.7,
+            "location": "Bangkok, Thailand"
+        },
+        "shipping": {
+            "cost": 4.99,
+            "duration": "5-10 days",
+            "locations": ["Asia", "Europe", "USA"]
+        }
+    }
+]
